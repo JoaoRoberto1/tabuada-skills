@@ -1,0 +1,42 @@
+body {
+    font-family: 'Arial', sans-serif;
+    font-size: 1.25rem;
+    text-align: center;
+    align-items: center;
+}
+.container-custom {
+    margin-top: 60px;
+    padding: 40px;
+    background-color: #b4b4b4;
+    border-radius: 12px;
+}
+.titulo {
+    font-size: 3em;
+    font-weight: 700;
+}
+.input-number {
+    width: 3em;
+    height: 2em;
+}
+.result-display {
+    font-size: 2.5rem;
+    margin-top: 25px;
+}
+.btn-custom {
+    font-size: 1rem;
+    width: 6em;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    margin: 0;
+}
